@@ -1,0 +1,25 @@
+{
+  "name": "portafolio-lucindadev",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "0.5.6",
+    "@astrojs/tailwind": "^5.1.0",
+    "@astrojs/vercel": "^2.4.0",
+    "@fontsource-variable/onest": "^5.0.6",
+    "@fontsource/onest": "^5.0.6",
+    "astro": "^3.6.5",
+    "astro-robots-txt": "1.0.0",
+    "portafolio-lucindadev": "file:",
+    "portafolio-lucindadev-dev": "file:",
+    "tailwindcss": "^3.4.10",
+    "typescript": "5.3.3"
+  }
+}
